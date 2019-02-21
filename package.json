@@ -1,0 +1,23 @@
+{
+  "name": "react-cookbook",
+  "version": "0.1.0",
+  "description": "A small react app to display recipes we like online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "recipe"
+  ],
+  "author": "Gloria Anholt",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "react-foundation": "^0.9.6"
+  },
+  "private": true
+}
