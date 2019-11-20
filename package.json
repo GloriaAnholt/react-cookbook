@@ -18,9 +18,11 @@
   },
   "private": true,
   "dependencies": {
+    "path": "^0.12.7",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "react-foundation": "^0.9.6"
+    "react-foundation": "^0.9.6",
+    "react-hot-loader": "^4.7.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.0",
